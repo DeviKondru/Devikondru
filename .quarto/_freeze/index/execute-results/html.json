@@ -1,0 +1,15 @@
+{
+  "hash": "c30c4b7cb1f18c4df7d038925ff0ed0c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Devikondru\"\n---\n\n\nHi! I'm Devi, a graduate student pursuing a Master's in Data Analytics Engineering with a passion for transforming data into actionable insights. With a strong foundation in computer science and a specialization in big data analytics from my bachelor's degree, I thrive at the intersection of technology and data-driven problem-solving.\n\nMy current work focuses on leveraging advanced analytical techniques and tools to extract meaningful patterns and trends from complex datasets. From glacier inventory datasets to business intelligence, I'm always eager to explore how data can drive impactful decisions.\n\nI’m particularly skilled in data visualization, statistical modeling, and machine learning, and enjoy collaborating on projects that solve real-world challenges through innovation. Whether it’s through coding, research, or developing interactive dashboards, my goal is to make data accessible and valuable to a broad audience.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

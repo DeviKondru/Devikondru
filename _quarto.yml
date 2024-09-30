@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Devikondru"
+  image: C:\Users\kondr\Downloads\devi pic.jpg
+  page-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/akshitha-kondru-174727241/"
+      - icon: github
+        href: "https://github.com/Devikondru"
+
+format:
+  html:
+    theme: Creative
+    css: styles.css
+    toc: true
+
+editor: visual
+
